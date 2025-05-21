@@ -517,11 +517,12 @@ button {
 .testimonial_text{
     width: 100%;
     float: left;
-    font-size: 46px;
+    font-size: 18px;
     font-weight: bold;
     text-align: center;
     color: #191919;
     text-transform: uppercase;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
 }
 
 .ipsum_text{
@@ -818,4 +819,3 @@ button {
 .padding_video_0{
     margin-top: 0px; 
 }
-
